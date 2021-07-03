@@ -1,6 +1,6 @@
 # power_radio
 
-A new Flutter project.
+Power Radio is an AI powered radio application which uses voice recognition to handle radio. This mobile application is built using Flutter and Alan AI tool.
 
 ## Getting Started
 
